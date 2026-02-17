@@ -11,16 +11,17 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a Cyber Security undergraduate focused on becoming a high-impact Cloud Security Engineer.  
-    I specialize in securing AWS infrastructure, building DevSecOps pipelines, and designing systems with security-first architecture.
+    Cyber Security undergraduate focused on becoming a high-impact <strong>Cloud Security Engineer</strong>.
+    I specialize in securing AWS infrastructure, implementing DevSecOps pipelines, 
+    and designing systems with security-first architecture.
   </p>
 
   <p>
-    My core focus areas:
+    My primary focus:
     <br/>• AWS Cloud Security & IAM Hardening  
     <br/>• Secure CI/CD & DevSecOps Automation  
     <br/>• Linux & Infrastructure Security  
-    <br/>• Detection Engineering & Threat Monitoring  
+    <br/>• Threat Detection & Monitoring  
   </p>
 
   <p>
@@ -41,42 +42,57 @@
 
 ---
 
-## 🛡️ Core Skills
+## 🛡️ Core Security Stack
 
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>☁️ Cloud & Security</h3>
+<h3>☁️ Cloud & Infrastructure Security</h3>
 
 <img src="https://skillicons.dev/icons?i=aws,linux,docker,terraform" />
 <br/><br/>
 
-IAM • CloudTrail • GuardDuty • Security Groups • VPC  
-DevSecOps • Infrastructure as Code • Incident Response  
+IAM • CloudTrail • GuardDuty • VPC • Security Groups  
+Infrastructure as Code • Incident Response • Hardening  
 </td>
 
 <td width="50%" align="center">
-<h3>💻 Programming</h3>
+<h3>⚙️ DevSecOps & Automation</h3>
 
-<img src="https://skillicons.dev/icons?i=python,bash,js" />
+<img src="https://skillicons.dev/icons?i=python,bash,git,github" />
 <br/><br/>
 
-Automation Scripts • Security Tools • API Integration  
+Secure CI/CD • Pipeline Security  
+Automation Scripts • Log Monitoring  
 </td>
 </tr>
+</table>
+</p>
 
+---
+
+## 💻 Full Stack Development (Secondary Skillset)
+
+<p align="center">
+<table>
 <tr>
 <td width="50%" align="center">
-<h3>🗄️ Databases</h3>
+<h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+<br/><br/>
+
+Responsive UI • SPA Architecture  
 </td>
 
 <td width="50%" align="center">
-<h3>🧰 Tools</h3>
+<h3>Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+<br/><br/>
+
+REST APIs • Authentication • Secure Sessions  
 </td>
 </tr>
 </table>
@@ -86,13 +102,23 @@ Automation Scripts • Security Tools • API Integration
 
 ## 🎓 Education
 
-**B.Tech in Cyber Security (2023–2027)**  
+**B.Tech in Cyber Security (2023 – 2027)**  
 Focused on:
-- Network Security  
-- Cloud Infrastructure Security  
-- Cryptography  
-- Secure Authentication Systems  
-- Threat Detection & Risk Assessment  
+
+• Network Security  
+• Cloud Infrastructure Security  
+• Cryptography  
+• Secure Authentication Systems  
+• Risk Assessment & Threat Modeling  
+
+---
+
+## 🚀 Current Mission
+
+• Mastering AWS Security Architecture  
+• Building secure cloud-native projects  
+• Strengthening DevSecOps automation  
+• Preparing for advanced Cloud Security certifications  
 
 ---
 
@@ -102,14 +128,3 @@ Focused on:
   <br/>
   <img src="https://streak-stats.demolab.com?user=sagarsahdesign-a11y&theme=dark&hide_border=true" alt="Streak" />
 </div>
-
----
-
-## 🚀 Current Focus
-
-• Advancing in AWS Security Architecture  
-• Building secure cloud-native projects  
-• Strengthening DevSecOps automation pipelines  
-• Preparing for advanced Cloud Security certifications  
-
----
